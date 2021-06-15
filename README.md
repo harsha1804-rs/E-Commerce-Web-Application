@@ -5,12 +5,14 @@
 
  #  The Technologies Used in this Project are
 
+## Front-End
 
 *  HTML
 *  CSS
+*  Java Script
+## Back-End
 *  PHP
 *  MYSQL database
-*  Java Script
 
 
 # Current Functionalities
