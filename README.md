@@ -32,7 +32,9 @@
 
 ![Screenshot from 2021-06-15 13-04-11](https://user-images.githubusercontent.com/85926421/122047911-4c466080-cdfe-11eb-875f-a628bd8956d7.png)
 
-
+# Checkout 
+![Screenshot from 2021-06-15 13-05-39](https://user-images.githubusercontent.com/85926421/122048493-f3c39300-cdfe-11eb-9399-9aa16b5aeb3b.png)
+![Screenshot from 2021-06-15 13-34-39](https://user-images.githubusercontent.com/85926421/122048515-f920dd80-cdfe-11eb-91e3-9edc20dd3b19.png)
 
 
 # Contributions
