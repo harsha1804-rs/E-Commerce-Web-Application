@@ -4,7 +4,7 @@
 3W Fashion is a fully responsive full stack web application. It provides all the basic functunalities of an Ecommerece store, from user authentication, admin logging, to shopping cart, shopping wallet etc.
 
  #  Technology Stack
-
+3W Fashione is build using a bsic and beginner friendly tech stack compromised of:
 
 *  HTML
 *  CSS
