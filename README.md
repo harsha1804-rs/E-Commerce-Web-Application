@@ -7,8 +7,8 @@
 # Technology Stack
 3W Fashion is build using a basic and beginner friendly tech stack compromised of:
 
-####HTML
--CSS
+## HTML
+## CSS
 -PHP
 -MYSQL database
 -Java Script
