@@ -13,7 +13,7 @@
 *  Java Script
 
 
-# Current Functionalitie
+# Current Functionalities
 
 * User, seller can register and sign in.
 * Sellers can sell their products.
