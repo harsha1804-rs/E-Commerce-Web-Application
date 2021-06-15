@@ -26,7 +26,6 @@
 
 # Product page
 ![Screenshot from 2021-06-15 13-03-52](https://user-images.githubusercontent.com/85926421/122047007-3edca680-cdfd-11eb-84c0-163e4117d977.png)
-![Screenshot from 2021-06-15 13-04-02](https://user-images.githubusercontent.com/85926421/122047058-4dc35900-cdfd-11eb-9b46-132d22a27ddc.png)
 ![Screenshot from 2021-06-15 13-05-19](https://user-images.githubusercontent.com/85926421/122047097-59168480-cdfd-11eb-9054-e4496f080654.png)
 
 
