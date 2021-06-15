@@ -12,10 +12,15 @@
 *  MYSQL database
 *  Java Script
 
-# Template
 
-![Screenshot from 2021-06-15 13-05-01](https://user-images.githubusercontent.com/85926421/122016074-5193b300-cdde-11eb-8ea4-85d8febda108.png)
+# Current Functionalitie
 
+* User, seller can register and sign in.
+* Sellers can sell their products.
+* Customer can rate and review product.
+* Customer can add/ remove products  from cart.
+
+# Home page
 
 
 # Contributions
