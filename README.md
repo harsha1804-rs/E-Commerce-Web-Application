@@ -5,12 +5,9 @@
 
  #  The Technologies Used in this Project are
 
-## For Front-End
-
 *  HTML
 *  CSS
 *  Java Script
-## For Back-End
 *  PHP
 *  MYSQL database
 
@@ -23,6 +20,7 @@
 * Customer can add/ remove products  from cart.
 
 # Home page
+![home page](https://user-images.githubusercontent.com/85926421/122033321-0a152300-cdee-11eb-8ef4-3348158ed614.png)
 
 
 # Contributions
